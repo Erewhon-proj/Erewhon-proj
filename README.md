@@ -44,7 +44,7 @@
   
   My academic and personal work revolves around training models for both medical and general-purpose applications, as part of my thesis and independent research.
   
-  Together with my team, I've contributed to innovative projects like **FlyNow** and **BoatGuard**, developed for hackathons and designed to deliver smart, practical solutions by combining neural networks with multi-agent systems.
+  Together with my team, I've contributed to innovative projects like FlyNow — developed for hackathons —, BoatGuard, and more. These projects aim to deliver smart, practical solutions by combining neural networks with multi-agent systems.
   
   While it might not be crucial, I proudly rely on Unix-like systems — mainly Arch and Debian — and only touch Windows when absolutely necessary (let’s be honest, who enjoys using a bloated OS anyway?).
   
