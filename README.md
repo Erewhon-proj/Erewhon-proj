@@ -40,9 +40,7 @@ I'm a Computer Science student from Catania, Sicily, on the verge of graduation 
 
 I'm passionate about building intelligent systems that solve real-world problems. Together with my team, I've developed projects like **FlyNow** (2nd place at hackathon) and **BoatGuard**, combining neural networks with multi-agent systems to create practical solutions.
 
-When I'm not training models or debugging code, you'll find me tinkering with my setup or exploring the latest in AI research. While it might not be crucial, I proudly rely on Unix-like systems — mainly Arch and Debian — and only touch Windows when absolutely necessary (let's be honest, who enjoys using a bloated OS anyway?).
-
-In my spare time, I enjoy reading, gaming, watching shows... and, unsurprisingly, often end up programming just for fun.
+In my spare time, I enjoy reading, gaming, watching shows... and, unsurprisingly, often end up programming just for fun.. While it might not be crucial, I proudly rely on Unix-like systems — mainly Arch and Debian — and only touch Windows when absolutely necessary (let's be honest, who enjoys using a bloated OS anyway?).
 
 *P.S. Yes, I use Arch btw* 😄
 
