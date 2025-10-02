@@ -20,7 +20,6 @@
 ```python
 class DarioLazzara:
     def __init__(self):
-        self.location = "Catania, Sicily 🇮🇹"
         self.role = "CS Student @ University of Catania"
         self.focus = ["AI/ML", "Medical Computer Vision", "Multi-Agent Systems"]
         self.current_work = "Tool/Hand Recognition for Medical Applications"
@@ -36,7 +35,7 @@ class DarioLazzara:
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-I'm a Computer Science student from Catania, Sicily, on the verge of graduation with a specialization in AI and Machine Learning. My thesis focuses on developing computer vision models for medical applications, specifically tool and hand recognition systems.
+I'm a Master's student in Computer Science, with a specialization in Artificial Intelligence and Machine Learning. For my thesis, I worked on developing computer vision models for medical applications, focusing on tool and hand recognition systems.
 
 I'm passionate about building intelligent systems that solve real-world problems. Together with my team, I've developed projects like **FlyNow** (2nd place at hackathon) and **BoatGuard**, combining neural networks with multi-agent systems to create practical solutions.
 
