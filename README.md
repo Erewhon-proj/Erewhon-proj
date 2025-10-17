@@ -26,7 +26,7 @@ class DarioLazzara:
         self.interests = ["Deep Learning", "Generative AI", "Clean Code", "Linux"]
         
     def daily_stack(self):
-        return ["Gym", "Study", "Programming", "Coffee ☕☕"]
+        return ["Gym", "Coffee", "Study", "Programming" ]
 ```
 
 ---
