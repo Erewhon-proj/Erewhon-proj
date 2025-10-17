@@ -53,7 +53,7 @@ In my spare time, I enjoy reading, gaming, watching shows... and, unsurprisingly
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">🏥 Medical AI Thesis</h3>
+        <h3 align="center">🏥 Understanding Egocentric Videos in Surgery Domain</h3>
         <div align="center">
           <img src="https://img.shields.io/badge/Computer_Vision-FF6F61?style=for-the-badge&logo=pytorch&logoColor=white" />
           <img src="https://img.shields.io/badge/Tool_Recognition-4CAF50?style=for-the-badge&logo=opencv&logoColor=white" />
